@@ -4,7 +4,9 @@
 
 ## Демо
 
-Опубликованная версия: **https://thekostvk.github.io/slozhno-sosredotochitsya-fd/**
+Репозиторий: **https://github.com/TheKostVK/slozhno-sosredotochitsya-fd**
+
+Опубликованная демо-версия: **https://thekostvk.github.io/slozhno-sosredotochitsya-fd/**
 
 ## Технологии
 
