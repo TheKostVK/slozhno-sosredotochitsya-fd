@@ -2,11 +2,7 @@
 
 Статическая адаптивная страница по макету. Проект посвящён причинам, по которым сложно концентрироваться, и простым способам вернуть внимание.
 
-Репозиторий: **https://github.com/TheKostVK/slozhno-sosredotochitsya-fd**
-
-## Демо
-
-Опубликованная демо-версия: **https://thekostvk.github.io/slozhno-sosredotochitsya-fd/**
+Репозиторий: https://github.com/TheKostVK/slozhno-sosredotochitsya-fd
 
 ## Технологии
 
